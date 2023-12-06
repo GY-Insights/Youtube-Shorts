@@ -1,3 +1,6 @@
+//To read more follow : https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
